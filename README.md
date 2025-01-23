@@ -1,4 +1,4 @@
-# Literature Review Tools
+# Literature Review
 
 This repository provides links to documents and various tools to assist with my literature review activities. Below are links to the resources:
 
