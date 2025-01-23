@@ -1,10 +1,21 @@
-# literature-review
-Codes to support my literature review activities.
+# Literature Review Tools
 
-UTsukuba: [https://docs.google.com/document/d/1xnsZZRF2-UF7y16zgZRdrv-svIK9jXvXCLU_glibCq8/edit?usp=sharing](https://docs.google.com/document/d/1xnsZZRF2-UF7y16zgZRdrv-svIK9jXvXCLU_glibCq8/edit?usp=sharing)
-AIST: [https://docs.google.com/document/d/1vq2MVDwCeLhUZAO6Jdb29P6eEM2PeNQea2kHGXblIdE/edit?usp=sharing](https://docs.google.com/document/d/1vq2MVDwCeLhUZAO6Jdb29P6eEM2PeNQea2kHGXblIdE/edit?usp=sharing) 
+This repository provides links to various tools and resources to assist with literature review activities, including document management, annotation, and reading assistance. Below are links to the primary resources:
 
-Others
-Scispace: [https://typeset.io/](https://typeset.io/library)
-Speechify: [https://app.speechify.com/](https://app.speechify.com/)
-Notebooklm: [https://notebooklm.google.com/](https://notebooklm.google.com/)
+## University of Tsukuba (UTsukuba)
+[UTsukuba Document](https://docs.google.com/document/d/1xnsZZRF2-UF7y16zgZRdrv-svIK9jXvXCLU_glibCq8/edit?usp=sharing)
+
+A comprehensive document for literature review management, compiled by the University of Tsukuba.
+
+## AIST (National Institute of Advanced Industrial Science and Technology)
+[AIST Document](https://docs.google.com/document/d/1vq2MVDwCeLhUZAO6Jdb29P6eEM2PeNQea2kHGXblIdE/edit?usp=sharing)
+
+AIST's literature review document, offering valuable insights and resources for literature analysis.
+
+## Other Useful Tools
+
+- [Scispace](https://typeset.io/): A platform for organizing and managing academic papers.
+- [Speechify](https://app.speechify.com/): A text-to-speech tool to help you listen to your literature while on the go.
+- [Notebooklm](https://notebooklm.google.com/): A smart notebook tool to facilitate organization, note-taking, and analysis of literature.
+
+These tools can be invaluable in streamlining your literature review process and improving your workflow.
