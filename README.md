@@ -1,6 +1,6 @@
 # Literature Review Tools
 
-This repository provides links to various tools and resources to assist with literature review activities, including document management, annotation, and reading assistance. Below are links to the primary resources:
+This repository provides links to various tools and resources to assist with my literature review activities, including document management, annotation, and reading assistance. Below are links to the primary resources:
 
 ## University of Tsukuba (UTsukuba)
 [UTsukuba Document](https://docs.google.com/document/d/1xnsZZRF2-UF7y16zgZRdrv-svIK9jXvXCLU_glibCq8/edit?usp=sharing)
