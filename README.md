@@ -1,6 +1,6 @@
 # Literature Review
 
-This repository provides links to documents and various tools to assist with my literature review activities. Below are links to the resources:
+This repository provides links to documents and various codes to assist with my literature review activities. Below are links to the resources:
 
 ## University of Tsukuba (UTsukuba)
 [UTsukuba Document](https://docs.google.com/document/d/1xnsZZRF2-UF7y16zgZRdrv-svIK9jXvXCLU_glibCq8/edit?usp=sharing)
